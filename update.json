@@ -1,12 +1,14 @@
 {
-  "version": "1.1.1",
-  "downloadUrl": "https://github.com/Riissee/cashUpd/releases/download/v1.1.0/Cash1.1.1.apk",
+  "version": "1.1.2",
+  "downloadUrl": "https://github.com/Riissee/cashUpd/releases/download/v1.1.0/Cash1.1.2.apk",
   "changelog": [
-    "Добавлено адаптивное разрешение.",
+    "Исправлено адаптивное разрешение.",
+    "Добавлена иконка.",
     "Исправлены мелкие баги"
   ]
 
 }
+
 
 
 
